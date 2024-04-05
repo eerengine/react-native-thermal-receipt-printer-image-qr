@@ -1,1 +1,1 @@
-export declare const connectToHost: (ipAddress: string, timeout?: number) => Promise<unknown>;
+export declare const connectToHost: (_ipAddress: string, _timeout?: number) => Promise<unknown>;
