@@ -1,6 +1,6 @@
 {
   "name": "@eerengine/react-native-thermal-receipt-printer-image-qr",
-  "version": "0.1.11",
+  "version": "0.0.1",
   "description": "Fork of https://github.com/thiendangit/react-native-thermal-receipt-printer-image-qr. A React Native Library to support USB/BLE/Net printer",
   "main": "dist/index.js",
   "source": "dist/index.js",
